@@ -1,0 +1,30 @@
+.car-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+}
+
+.availability {
+  background-color: #ccc;
+  border-radius: 10px;
+  color: #666;
+  padding: 10px;
+  text-align: center;
+}
+
+.availability.available {
+  background-color: #0f0;
+  color: #fff;
+}
+
+.availability.unavailable {
+  background-color: #f00;
+  color: #fff;
+}
+
+.availability.limited {
+  background-color: #ff0;
+  color: #666;
+}
