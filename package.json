@@ -1,1 +1,1 @@
-{"name": "car-availability-indicator", "version": "1.0.0", "dependencies": {"react": "^18.2.0", "react-dom": "^18.2.0", "react-router-dom": "^6.4.0", "typescript": "^4.8.4", "vite": "^3.2.3"}, "scripts": {"dev": "vite", "build": "vite build"}}
+{"name": "optimized-app", "version": "1.0.0", "dependencies": {"react": "^18.2.0", "react-dom": "^18.2.0", "react-router-dom": "^6.4.0", "axios": "^1.1.2", "zustand": "^4.1.5", "framer-motion": "^7.6.10", "lucide-react": "^0.3.5", "vite": "^4.0.0"}, "scripts": {"dev": "vite", "build": "vite build"}}
